@@ -1,0 +1,2842 @@
+{
+  "Mat.15.6{15": {
+    "words": [
+      {
+        "original": "καὶ (kai)",
+        "transliteration": "and",
+        "strongs": "G2532=CONJ",
+        "morphology": "καί=and",
+        "translation": "TR+Byz"
+      },
+      {
+        "original": "οὐ (ou)",
+        "transliteration": "certainly",
+        "strongs": "G3756=PRT-N",
+        "morphology": "οὐ=no",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "μὴ (mē)",
+        "transliteration": "not",
+        "strongs": "G3361=PRT-N",
+        "morphology": "μή=not",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "τιμήσει (timēsei)",
+        "transliteration": "he will honor",
+        "strongs": "G5091=V-FAI-3S",
+        "morphology": "τιμάω=to honor",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg"
+      },
+      {
+        "original": "τὸν (ton)",
+        "transliteration": "the",
+        "strongs": "G3588=T-ASM",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "πατέρα (patera)",
+        "transliteration": "father",
+        "strongs": "G3962=N-ASM",
+        "morphology": "πατήρ=father",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "αὐτοῦ (autou)",
+        "transliteration": "of himself",
+        "strongs": "G0846=P-GSM",
+        "morphology": "αὐτός=he/she/it/self",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἢ (ē)",
+        "transliteration": "or",
+        "strongs": "G2228=CONJ",
+        "morphology": "ἤ=or/than",
+        "translation": "Treg+TR+Byz"
+      },
+      {
+        "original": "τὴν (tēn)",
+        "transliteration": "the",
+        "strongs": "G3588=T-ASF",
+        "morphology": "ὁ=the/this/who",
+        "translation": "Treg+TR+Byz"
+      },
+      {
+        "original": "μητέρα (mētera)",
+        "transliteration": "mother",
+        "strongs": "G3384=N-ASF",
+        "morphology": "μήτηρ=mother",
+        "translation": "Treg+TR+Byz"
+      },
+      {
+        "original": "αὐτοῦ, (autou)",
+        "transliteration": "of him",
+        "strongs": "G0846=P-GSM",
+        "morphology": "αὐτός=he/she/it/self",
+        "translation": "Treg+TR+Byz"
+      }
+    ]
+  },
+  "Mat.17.15[17": {
+    "words": [
+      {
+        "original": "καὶ (kai)",
+        "transliteration": "and",
+        "strongs": "G2532=CONJ",
+        "morphology": "καί=and",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "λέγων· (legōn)",
+        "transliteration": "saying;",
+        "strongs": "G3004G=V-PAP-NSM",
+        "morphology": "λέγω=to speak",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      }
+    ]
+  },
+  "Mat.20.5[20": {
+    "words": [
+      {
+        "original": "οἱ (hoi)",
+        "transliteration": "<the>",
+        "strongs": "G3588=T-NPM",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "δὲ (de)",
+        "transliteration": "And",
+        "strongs": "G1161=CONJ",
+        "morphology": "δέ=but/and",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἀπῆλθον. (apēlthon)",
+        "transliteration": "they went.",
+        "strongs": "G0565=V-2AAI-3P",
+        "morphology": "ἀπέρχομαι=to go away",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      }
+    ]
+  },
+  "Mrk.3.20[3": {
+    "words": [
+      {
+        "original": "Καὶ (Kai)",
+        "transliteration": "And",
+        "strongs": "G2532=CONJ",
+        "morphology": "καί=and",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἔρχεται (erchetai)",
+        "transliteration": "He comes",
+        "strongs": "G2064=V-PNI-3S",
+        "morphology": "ἔρχομαι=to come/go",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Byz"
+      },
+      {
+        "original": "εἰς (eis)",
+        "transliteration": "to",
+        "strongs": "G1519=PREP",
+        "morphology": "εἰς=toward",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "οἶκον, (oikon)",
+        "transliteration": "a house,",
+        "strongs": "G3624G=N-ASM",
+        "morphology": "οἶκος=house",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      }
+    ]
+  },
+  "Mrk.12.15(12": {
+    "words": [
+      {
+        "original": "δῶμεν (dōmen)",
+        "transliteration": "shall we pay",
+        "strongs": "G1325=V-2AAS-1P",
+        "morphology": "δίδωμι=to give",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἢ (ē)",
+        "transliteration": "or",
+        "strongs": "G2228=CONJ",
+        "morphology": "ἤ=or/than",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "μὴ (mē)",
+        "transliteration": "not",
+        "strongs": "G3361=PRT-N",
+        "morphology": "μή=not",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "δῶμεν;¶ (dōmen)",
+        "transliteration": "shall we pay?",
+        "strongs": "G1325=V-2AAS-1P",
+        "morphology": "δίδωμι=to give",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      }
+    ]
+  },
+  "Luk.1.73[1": {
+    "words": [
+      {
+        "original": "τοῦ (tou)",
+        "transliteration": "[74] <the>",
+        "strongs": "G3588=T-GSN",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "δοῦναι (dounai)",
+        "transliteration": "to grant",
+        "strongs": "G1325=V-2AAN",
+        "morphology": "δίδωμι=to give",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἡμῖν (hēmin)",
+        "transliteration": "us",
+        "strongs": "G3165=P-1DP",
+        "morphology": "ἐγώ=I/we",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      }
+    ]
+  },
+  "Luk.6.18[6": {
+    "words": [
+      {
+        "original": "οἳ (hoi)",
+        "transliteration": "who",
+        "strongs": "G3739=R-NPM",
+        "morphology": "ὅς, ἥ=which",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἦλθον (ēlthon)",
+        "transliteration": "came",
+        "strongs": "G2064=V-2AAI-3P",
+        "morphology": "ἔρχομαι=to come/go",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἀκοῦσαι (akousai)",
+        "transliteration": "to hear",
+        "strongs": "G0191=V-AAN",
+        "morphology": "ἀκούω=to hear",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "αὐτοῦ (autou)",
+        "transliteration": "Him",
+        "strongs": "G0846=P-GSM",
+        "morphology": "αὐτός=he/she/it/self",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "καὶ (kai)",
+        "transliteration": "and",
+        "strongs": "G2532=CONJ",
+        "morphology": "καί=and",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἰαθῆναι (iathēnai)",
+        "transliteration": "to be healed",
+        "strongs": "G2390=V-APN",
+        "morphology": "ἰάομαι=to heal",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἀπὸ (apo)",
+        "transliteration": "of",
+        "strongs": "G0575=PREP",
+        "morphology": "ἀπό=away from",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "τῶν (tōn)",
+        "transliteration": "the",
+        "strongs": "G3588=T-GPF",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "νόσων (nosōn)",
+        "transliteration": "diseases",
+        "strongs": "G3554=N-GPF",
+        "morphology": "νόσος=illness",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "αὐτῶν. (autōn)",
+        "transliteration": "of them.",
+        "strongs": "G0846=P-GPM",
+        "morphology": "αὐτός=he/she/it/self",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      }
+    ]
+  },
+  "Luk.7.18[7": {
+    "words": [
+      {
+        "original": "καὶ (kai)",
+        "transliteration": "[19] And",
+        "strongs": "G2532=CONJ",
+        "morphology": "καί=and",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "προσκαλεσάμενος (proskalesamenos)",
+        "transliteration": "having called near",
+        "strongs": "G4341=V-ADP-NSM",
+        "morphology": "προσκαλέω=to call to/summon",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "δύο (duo)",
+        "transliteration": "two",
+        "strongs": "G1417=A-NUI",
+        "morphology": "δύο=two",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "τινὰς (tinas)",
+        "transliteration": "certain",
+        "strongs": "G5100=X-APM",
+        "morphology": "τις=one",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "τῶν (tōn)",
+        "transliteration": "the",
+        "strongs": "G3588=T-GPM",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "μαθητῶν (mathētōn)",
+        "transliteration": "disciples",
+        "strongs": "G3101=N-GPM",
+        "morphology": "μαθητής=disciple",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "αὐτοῦ (autou)",
+        "transliteration": "of him",
+        "strongs": "G0846=P-GSM",
+        "morphology": "αὐτός=he/she/it/self",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ὁ (ho)",
+        "transliteration": "<the>",
+        "strongs": "G3588=T-NSM",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "Ἰωάννης (Iōannēs)",
+        "transliteration": "John",
+        "strongs": "G2491G=N-NSM-P",
+        "morphology": "Ἰωάννης=John",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      }
+    ]
+  },
+  "Jhn.7.53{8": {
+    "words": [
+      {
+        "original": "[[Καὶ (Kai)",
+        "transliteration": "{8.1} And",
+        "strongs": "G2532=CONJ",
+        "morphology": "καί=and",
+        "translation": "NA28+NA27+Tyn+WH+TR+Byz"
+      },
+      {
+        "original": "ἐπορεύθη (eporeuthē)",
+        "transliteration": "he went",
+        "strongs": "G4198=V-AOI-3S",
+        "morphology": "πορεύω=to travel",
+        "translation": "Tyn+TR+Byz"
+      },
+      {
+        "original": "ἕκαστος (hekastos)",
+        "transliteration": "each",
+        "strongs": "G1538=A-NSM",
+        "morphology": "ἕκαστος=each",
+        "translation": "NA28+NA27+Tyn+WH+TR+Byz"
+      },
+      {
+        "original": "εἰς (eis)",
+        "transliteration": "to",
+        "strongs": "G1519=PREP",
+        "morphology": "εἰς=toward",
+        "translation": "NA28+NA27+Tyn+WH+TR+Byz"
+      },
+      {
+        "original": "τὸν (ton)",
+        "transliteration": "the",
+        "strongs": "G3588=T-ASM",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+WH+TR+Byz"
+      },
+      {
+        "original": "οἶκον (oikon)",
+        "transliteration": "home",
+        "strongs": "G3624G=N-ASM",
+        "morphology": "οἶκος=house",
+        "translation": "NA28+NA27+Tyn+WH+TR+Byz"
+      },
+      {
+        "original": "αὐτοῦ, (autou)",
+        "transliteration": "of him,",
+        "strongs": "G0846=P-GSM",
+        "morphology": "αὐτός=he/she/it/self",
+        "translation": "NA28+NA27+Tyn+WH+TR+Byz"
+      }
+    ]
+  },
+  "Act.2.11[2": {
+    "words": [
+      {
+        "original": "Ἰουδαῖοί (Ioudaioi)",
+        "transliteration": "Jews",
+        "strongs": "G2453=N-NPM-PG",
+        "morphology": "Ἰουδαῖος=Jewish",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "τε (te)",
+        "transliteration": "both",
+        "strongs": "G5037=CONJ",
+        "morphology": "τε=and/both",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "καὶ (kai)",
+        "transliteration": "and",
+        "strongs": "G2532=CONJ",
+        "morphology": "καί=and",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "προσήλυτοι, (prosēlutoi)",
+        "transliteration": "converts,",
+        "strongs": "G4339=N-NPM",
+        "morphology": "προσήλυτος=proselyte",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      }
+    ]
+  },
+  "Act.3.20[3": {
+    "words": [
+      {
+        "original": "ὅπως (hopōs)",
+        "transliteration": "so that",
+        "strongs": "G3704=CONJ",
+        "morphology": "ὅπως=that",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἂν (an)",
+        "transliteration": "maybe",
+        "strongs": "G0302=PRT",
+        "morphology": "ἄν=if",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἔλθωσιν (elthōsin)",
+        "transliteration": "may come",
+        "strongs": "G2064=V-2AAS-3P",
+        "morphology": "ἔρχομαι=to come/go",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "καιροὶ (kairoi)",
+        "transliteration": "times",
+        "strongs": "G2540=N-NPM",
+        "morphology": "καιρός=time/right time",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἀναψύξεως (anapsuxeōs)",
+        "transliteration": "of refreshing",
+        "strongs": "G0403=N-GSF",
+        "morphology": "ἀνάψυξις=refreshment",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἀπὸ (apo)",
+        "transliteration": "from",
+        "strongs": "G0575=PREP",
+        "morphology": "ἀπό=away from",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "προσώπου (prosōpou)",
+        "transliteration": "[the] presence",
+        "strongs": "G4383=N-GSN",
+        "morphology": "πρόσωπον=face",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "τοῦ (tou)",
+        "transliteration": "of the",
+        "strongs": "G3588=T-GSM",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "κυρίου (kuriou)",
+        "transliteration": "Lord",
+        "strongs": "G2962G=N-GSM-T",
+        "morphology": "κύριος=lord",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      }
+    ]
+  },
+  "Act.4.5[4": {
+    "words": [
+      {
+        "original": "ἐν (en)",
+        "transliteration": "[6] in",
+        "strongs": "G1722=PREP",
+        "morphology": "ἐν=in/on/among",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg"
+      },
+      {
+        "original": "Ἰερουσαλὴμ (Ierousalēm)",
+        "transliteration": "Jerusalem",
+        "strongs": "G2419=N-DSF-L",
+        "morphology": "Ἱερουσαλήμ=Jerusalem",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      }
+    ]
+  },
+  "Act.5.39[5": {
+    "words": [
+      {
+        "original": "ἐπείσθησαν (epeisthēsan)",
+        "transliteration": "[40] They were persuaded",
+        "strongs": "G3982=V-API-3P",
+        "morphology": "πείθω=to persuade",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "δὲ (de)",
+        "transliteration": "now",
+        "strongs": "G1161=CONJ",
+        "morphology": "δέ=but/and",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "αὐτῷ, (autō)",
+        "transliteration": "by him,",
+        "strongs": "G0846=P-DSM",
+        "morphology": "αὐτός=he/she/it/self",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      }
+    ]
+  },
+  "Act.9.28[9": {
+    "words": [
+      {
+        "original": "καὶ (kai)",
+        "transliteration": "[29] and",
+        "strongs": "G2532=CONJ",
+        "morphology": "καί=and",
+        "translation": "TR+Byz"
+      },
+      {
+        "original": "παρρησιαζόμενος (parrēsiazomenos)",
+        "transliteration": "speaking boldly",
+        "strongs": "G3955=V-PNP-NSM",
+        "morphology": "παρρησιάζομαι=to preach boldly",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἐν (en)",
+        "transliteration": "in",
+        "strongs": "G1722=PREP",
+        "morphology": "ἐν=in/on/among",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "τῷ (tō)",
+        "transliteration": "the",
+        "strongs": "G3588=T-DSN",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ὀνόματι (onomati)",
+        "transliteration": "name",
+        "strongs": "G3686=N-DSN",
+        "morphology": "ὄνομα=name",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "τοῦ (tou)",
+        "transliteration": "of the",
+        "strongs": "G3588=T-GSM",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "κυρίου (kuriou)",
+        "transliteration": "Lord",
+        "strongs": "G2962G=N-GSM-T",
+        "morphology": "κύριος=lord",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "Ἰησοῦ, (Iēsou)",
+        "transliteration": "Jesus,",
+        "strongs": "G2424G=N-GSM-P",
+        "morphology": "Ἰησοῦς=Jesus/Joshua",
+        "translation": "TR+Byz"
+      }
+    ]
+  },
+  "Act.13.39(13": {
+    "words": [
+      {
+        "original": "καὶ (kai)",
+        "transliteration": "And",
+        "strongs": "G2532=CONJ",
+        "morphology": "καί=and",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἀπὸ (apo)",
+        "transliteration": "from",
+        "strongs": "G0575=PREP",
+        "morphology": "ἀπό=away from",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "πάντων (pantōn)",
+        "transliteration": "all things",
+        "strongs": "G3956=A-GPN",
+        "morphology": "πᾶς=all",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ὧν (hōn)",
+        "transliteration": "from which",
+        "strongs": "G3739=R-GPN",
+        "morphology": "ὅς, ἥ=which",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "οὐκ (ouk)",
+        "transliteration": "not",
+        "strongs": "G3756=PRT-N",
+        "morphology": "οὐ=no",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἠδυνήθητε (ēdunēthēte)",
+        "transliteration": "you were able",
+        "strongs": "G1410=V-AOI-2P-ATT",
+        "morphology": "δύναμαι=be able",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἐν (en)",
+        "transliteration": "in",
+        "strongs": "G1722=PREP",
+        "morphology": "ἐν=in/on/among",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "τῷ (tō)",
+        "transliteration": "the",
+        "strongs": "G3588=T-DSM",
+        "morphology": "ὁ=the/this/who",
+        "translation": "TR+Byz"
+      },
+      {
+        "original": "νόμῳ (nomō)",
+        "transliteration": "law",
+        "strongs": "G3551=N-DSM",
+        "morphology": "νόμος=law",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "Μωϋσέως (Mōuseōs)",
+        "transliteration": "of Moses",
+        "strongs": "G3475=N-GSM-P",
+        "morphology": "Μωϋσῆς, Μωσῆς=Moses",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "δικαιωθῆναι, (dikaiōthēnai)",
+        "transliteration": "to be justified,",
+        "strongs": "G1344=V-APN",
+        "morphology": "δικαιόω=to justify",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      }
+    ]
+  },
+  "Act.19.41(19": {
+    "words": [
+      {
+        "original": "καὶ (kai)",
+        "transliteration": "And",
+        "strongs": "G2532=CONJ",
+        "morphology": "καί=and",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ταῦτα (tauta)",
+        "transliteration": "these things",
+        "strongs": "G3778=D-APN",
+        "morphology": "οὗτος=this/he/she/it",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "εἰπὼν (eipōn)",
+        "transliteration": "having said",
+        "strongs": "G2036=V-2AAP-NSM",
+        "morphology": "ἔπω, ἐρῶ, εἶπον=to say",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἀπέλυσεν (apelusen)",
+        "transliteration": "he dismissed",
+        "strongs": "G0630G=V-AAI-3S",
+        "morphology": "ἀπολύω=to release",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "τὴν (tēn)",
+        "transliteration": "the",
+        "strongs": "G3588=T-ASF",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἐκκλησίαν.¶ (ekklēsian)",
+        "transliteration": "assembly.",
+        "strongs": "G1577=N-ASF",
+        "morphology": "ἐκκλησία=assembly",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      }
+    ]
+  },
+  "Act.24.19[24": {
+    "words": [
+      {
+        "original": "τινὲς (tines)",
+        "transliteration": "Some",
+        "strongs": "G5100=X-NPM",
+        "morphology": "τις=one",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "δὲ (de)",
+        "transliteration": "however [are]",
+        "strongs": "G1161=CONJ",
+        "morphology": "δέ=but/and",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἀπὸ (apo)",
+        "transliteration": "from",
+        "strongs": "G0575=PREP",
+        "morphology": "ἀπό=away from",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "τῆς (tēs)",
+        "transliteration": "<the>",
+        "strongs": "G3588=T-GSF",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "Ἀσίας (Asias)",
+        "transliteration": "Asia",
+        "strongs": "G0773=N-GSF-L",
+        "morphology": "Ἀσία=Asia",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "Ἰουδαῖοι, (Ioudaioi)",
+        "transliteration": "Jews",
+        "strongs": "G2453=A-NPM-PG",
+        "morphology": "Ἰουδαῖος=Jewish",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      }
+    ]
+  },
+  "Rom.1.10[1": {
+    "words": [
+      {
+        "original": "πάντοτε (pantote)",
+        "transliteration": "always",
+        "strongs": "G3842=ADV",
+        "morphology": "πάντοτε=always",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἐπὶ (epi)",
+        "transliteration": "upon",
+        "strongs": "G1909=PREP",
+        "morphology": "ἐπί=upon/to/against",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "τῶν (tōn)",
+        "transliteration": "the",
+        "strongs": "G3588=T-GPF",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "προσευχῶν (proseuchōn)",
+        "transliteration": "prayers",
+        "strongs": "G4335=N-GPF",
+        "morphology": "προσευχή=prayer",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "μου (mou)",
+        "transliteration": "of mine",
+        "strongs": "G3165=P-1GS",
+        "morphology": "ἐγώ=I/we",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      }
+    ]
+  },
+  "Rom.3.25(3": {
+    "words": [
+      {
+        "original": "ἐν (en)",
+        "transliteration": "(26) in",
+        "strongs": "G1722=PREP",
+        "morphology": "ἐν=in/on/among",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "τῇ (tēa)",
+        "transliteration": "the",
+        "strongs": "G3588=T-DSF",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἀνοχῇ (anochēa)",
+        "transliteration": "forbearance",
+        "strongs": "G0463=N-DSF",
+        "morphology": "ἀνοχή=tolerance",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "τοῦ (tou)",
+        "transliteration": "<the>",
+        "strongs": "G3588=T-GSM",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "θεοῦ· (theou)",
+        "transliteration": "of God;",
+        "strongs": "G2316=N-GSM-T",
+        "morphology": "θεός=God",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      }
+    ]
+  },
+  "Rom.7.10[7": {
+    "words": [
+      {
+        "original": "ἐγὼ (egō)",
+        "transliteration": "I myself",
+        "strongs": "G1473=P-1NS",
+        "morphology": "ἐγώ=I/we",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "δὲ (de)",
+        "transliteration": "then",
+        "strongs": "G1161=CONJ",
+        "morphology": "δέ=but/and",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἀπέθανον, (apethanon)",
+        "transliteration": "died,",
+        "strongs": "G0599=V-2AAI-1S",
+        "morphology": "ἀποθνήσκω=to die",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      }
+    ]
+  },
+  "Rom.9.12[9": {
+    "words": [
+      {
+        "original": "οὐκ (ouk)",
+        "transliteration": "not",
+        "strongs": "G3756=PRT-N",
+        "morphology": "οὐ=no",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἐξ (ex)",
+        "transliteration": "of",
+        "strongs": "G1537=PREP",
+        "morphology": "ἐκ=out from",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἔργων (ergōn)",
+        "transliteration": "works",
+        "strongs": "G2041=N-GPN",
+        "morphology": "ἔργον=work",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἀλλ᾽ (all᾽)",
+        "transliteration": "but",
+        "strongs": "G0235=CONJ",
+        "morphology": "ἀλλά=but",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἐκ (ek)",
+        "transliteration": "of",
+        "strongs": "G1537=PREP",
+        "morphology": "ἐκ=out from",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "τοῦ (tou)",
+        "transliteration": "the [One]",
+        "strongs": "G3588=T-GSM",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "καλοῦντος, (kalountos)",
+        "transliteration": "calling,",
+        "strongs": "G2564G=V-PAP-GSM",
+        "morphology": "καλέω=to call",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      }
+    ]
+  },
+  "Rom.16.25{14": {
+    "words": [
+      {
+        "original": "Τῷ (Tō)",
+        "transliteration": "{14.24} To Him",
+        "strongs": "G3588=T-DSM",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.24"
+      },
+      {
+        "original": "δὲ (de)",
+        "transliteration": "now",
+        "strongs": "G1161=CONJ",
+        "morphology": "δέ=but/and",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.24"
+      },
+      {
+        "original": "δυναμένῳ (dunamenō)",
+        "transliteration": "being able",
+        "strongs": "G1410=V-PNP-DSM",
+        "morphology": "δύναμαι=be able",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.24"
+      },
+      {
+        "original": "ὑμᾶς (humas)",
+        "transliteration": "you",
+        "strongs": "G4771=P-2AP",
+        "morphology": "σύ=you",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.24"
+      },
+      {
+        "original": "στηρίξαι (stērixai)",
+        "transliteration": "to strengthen",
+        "strongs": "G4741=V-AAN",
+        "morphology": "στηρίζω=to establish",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.24"
+      },
+      {
+        "original": "κατὰ (kata)",
+        "transliteration": "according to",
+        "strongs": "G2596=PREP",
+        "morphology": "κατά=according to",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.24"
+      },
+      {
+        "original": "τὸ (to)",
+        "transliteration": "<the>",
+        "strongs": "G3588=T-ASN",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.24"
+      },
+      {
+        "original": "εὐαγγέλιόν (euangelion)",
+        "transliteration": "gospel",
+        "strongs": "G2098=N-ASN",
+        "morphology": "εὐαγγέλιον=gospel",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.24"
+      },
+      {
+        "original": "μου (mou)",
+        "transliteration": "of mine",
+        "strongs": "G3165=P-1GS",
+        "morphology": "ἐγώ=I/we",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.24"
+      },
+      {
+        "original": "καὶ (kai)",
+        "transliteration": "and",
+        "strongs": "G2532=CONJ",
+        "morphology": "καί=and",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.24"
+      },
+      {
+        "original": "τὸ (to)",
+        "transliteration": "the",
+        "strongs": "G3588=T-ASN",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.24"
+      },
+      {
+        "original": "κήρυγμα (kērugma)",
+        "transliteration": "preaching",
+        "strongs": "G2782=N-ASN",
+        "morphology": "κήρυγμα=preaching",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.24"
+      },
+      {
+        "original": "Ἰησοῦ (Iēsou)",
+        "transliteration": "of Jesus",
+        "strongs": "G2424G=N-GSM-P",
+        "morphology": "Ἰησοῦς=Jesus/Joshua",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.24"
+      },
+      {
+        "original": "Χριστοῦ (Christou)",
+        "transliteration": "Christ",
+        "strongs": "G5547=N-GSM-T",
+        "morphology": "Χριστός=Christ",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.24"
+      },
+      {
+        "original": "κατὰ (kata)",
+        "transliteration": "according to",
+        "strongs": "G2596=PREP",
+        "morphology": "κατά=according to",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.24"
+      },
+      {
+        "original": "ἀποκάλυψιν (apokalupsin)",
+        "transliteration": "[the] revelation",
+        "strongs": "G0602=N-ASF",
+        "morphology": "ἀποκάλυψις=revelation",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.24"
+      },
+      {
+        "original": "μυστηρίου (mustēriou)",
+        "transliteration": "of [the] mystery",
+        "strongs": "G3466=N-GSN",
+        "morphology": "μυστήριον=mystery",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.24"
+      },
+      {
+        "original": "χρόνοις (chronois)",
+        "transliteration": "in times",
+        "strongs": "G5550=N-DPM",
+        "morphology": "χρόνος=time",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.24"
+      },
+      {
+        "original": "αἰωνίοις (aiōniois)",
+        "transliteration": "of the ages",
+        "strongs": "G0166=A-DPM",
+        "morphology": "αἰώνιος=eternal",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.24"
+      },
+      {
+        "original": "σεσιγημένου, (sesigēmenou)",
+        "transliteration": "kept secret,",
+        "strongs": "G4601=V-RPP-GSN",
+        "morphology": "σιγάω=be silent",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.24"
+      }
+    ]
+  },
+  "Rom.16.26{14": {
+    "words": [
+      {
+        "original": "φανερωθέντος (phanerōthentos)",
+        "transliteration": "{14.25} having been made manifest",
+        "strongs": "G5319=V-APP-GSM",
+        "morphology": "φανερόω=to manifest",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.25"
+      },
+      {
+        "original": "δὲ (de)",
+        "transliteration": "however",
+        "strongs": "G1161=CONJ",
+        "morphology": "δέ=but/and",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.25"
+      },
+      {
+        "original": "νῦν (nun)",
+        "transliteration": "now",
+        "strongs": "G3568=ADV",
+        "morphology": "νῦν=now",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.25"
+      },
+      {
+        "original": "διά (dia)",
+        "transliteration": "through",
+        "strongs": "G1223=PREP",
+        "morphology": "διά=through/because of",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.25"
+      },
+      {
+        "original": "τε (te)",
+        "transliteration": "also",
+        "strongs": "G5037=CONJ",
+        "morphology": "τε=and/both",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.25"
+      },
+      {
+        "original": "γραφῶν (graphōn)",
+        "transliteration": "Scriptures",
+        "strongs": "G1124=N-GPF",
+        "morphology": "γραφή=a writing",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.25"
+      },
+      {
+        "original": "προφητικῶν (prophētikōn)",
+        "transliteration": "prophetic",
+        "strongs": "G4397=A-GPF",
+        "morphology": "προφητικός=prophetic",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.25"
+      },
+      {
+        "original": "κατ᾽ (kat᾽)",
+        "transliteration": "according to",
+        "strongs": "G2596=PREP",
+        "morphology": "κατά=according to",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.25"
+      },
+      {
+        "original": "ἐπιταγὴν (epitagēn)",
+        "transliteration": "[the] commandment",
+        "strongs": "G2003=N-ASF",
+        "morphology": "ἐπιταγή=command",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.25"
+      },
+      {
+        "original": "τοῦ (tou)",
+        "transliteration": "of the",
+        "strongs": "G3588=T-GSM",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.25"
+      },
+      {
+        "original": "αἰωνίου (aiōniou)",
+        "transliteration": "Eternal",
+        "strongs": "G0166=A-GSM",
+        "morphology": "αἰώνιος=eternal",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.25"
+      },
+      {
+        "original": "θεοῦ (theou)",
+        "transliteration": "God",
+        "strongs": "G2316=N-GSM-T",
+        "morphology": "θεός=God",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.25"
+      },
+      {
+        "original": "εἰς (eis)",
+        "transliteration": "unto [the]",
+        "strongs": "G1519=PREP",
+        "morphology": "εἰς=toward",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.25"
+      },
+      {
+        "original": "ὑπακοὴν (hupakoēn)",
+        "transliteration": "obedience",
+        "strongs": "G5218=N-ASF",
+        "morphology": "ὑπακοή=obedience",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.25"
+      },
+      {
+        "original": "πίστεως (pisteōs)",
+        "transliteration": "of faith —",
+        "strongs": "G4102G=N-GSF",
+        "morphology": "πίστις=faith",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.25"
+      },
+      {
+        "original": "εἰς (eis)",
+        "transliteration": "to",
+        "strongs": "G1519=PREP",
+        "morphology": "εἰς=toward",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.25"
+      },
+      {
+        "original": "πάντα (panta)",
+        "transliteration": "all",
+        "strongs": "G3956=A-APN",
+        "morphology": "πᾶς=all",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.25"
+      },
+      {
+        "original": "τὰ (ta)",
+        "transliteration": "the",
+        "strongs": "G3588=T-APN",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.25"
+      },
+      {
+        "original": "ἔθνη (ethnē)",
+        "transliteration": "Gentiles",
+        "strongs": "G1484=N-APN",
+        "morphology": "ἔθνος=Gentile nation",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.25"
+      },
+      {
+        "original": "γνωρισθέντος, (gnōristhentos)",
+        "transliteration": "having been made known —",
+        "strongs": "G1107=V-APP-GSN",
+        "morphology": "γνωρίζω=to make known",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.25"
+      }
+    ]
+  },
+  "Rom.16.27{14": {
+    "words": [
+      {
+        "original": "μόνῳ (monō)",
+        "transliteration": "{14.26} [to the] only",
+        "strongs": "G3441=A-DSM",
+        "morphology": "μόνος=alone",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.26"
+      },
+      {
+        "original": "σοφῷ (sophō)",
+        "transliteration": "wise",
+        "strongs": "G4680=A-DSM",
+        "morphology": "σοφός=wise",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.26"
+      },
+      {
+        "original": "θεῷ (theō)",
+        "transliteration": "God",
+        "strongs": "G2316=N-DSM-T",
+        "morphology": "θεός=God",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.26"
+      },
+      {
+        "original": "διὰ (dia)",
+        "transliteration": "through",
+        "strongs": "G1223=PREP",
+        "morphology": "διά=through/because of",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.26"
+      },
+      {
+        "original": "Ἰησοῦ (Iēsou)",
+        "transliteration": "Jesus",
+        "strongs": "G2424G=N-GSM-P",
+        "morphology": "Ἰησοῦς=Jesus/Joshua",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.26"
+      },
+      {
+        "original": "Χριστοῦ, (Christou)",
+        "transliteration": "Christ",
+        "strongs": "G5547=N-GSM-T",
+        "morphology": "Χριστός=Christ",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.26"
+      },
+      {
+        "original": "ᾧ (hō)",
+        "transliteration": "which [is]",
+        "strongs": "G3739=R-DSM",
+        "morphology": "ὅς, ἥ=which",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.26"
+      },
+      {
+        "original": "ἡ (hē)",
+        "transliteration": "[be] the",
+        "strongs": "G3588=T-NSF",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.26"
+      },
+      {
+        "original": "δόξα (doxa)",
+        "transliteration": "glory",
+        "strongs": "G1391=N-NSF",
+        "morphology": "δόξα=glory",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.26"
+      },
+      {
+        "original": "εἰς (eis)",
+        "transliteration": "to",
+        "strongs": "G1519=PREP",
+        "morphology": "εἰς=toward",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.26"
+      },
+      {
+        "original": "τοὺς (tous)",
+        "transliteration": "the",
+        "strongs": "G3588=T-APM",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.26"
+      },
+      {
+        "original": "αἰῶνας, (aiōnas)",
+        "transliteration": "ages",
+        "strongs": "G0165H=N-APM",
+        "morphology": "αἰών=an age",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.26"
+      },
+      {
+        "original": "ἀμήν (amēn)",
+        "transliteration": "Amen",
+        "strongs": "G0281=INJ-HEB",
+        "morphology": "ἀμήν=amen",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz«14.26"
+      },
+      {
+        "original": "πρός (pros)",
+        "transliteration": "to",
+        "strongs": "G4314=PREP",
+        "morphology": "πρός=to/with",
+        "translation": "TR"
+      },
+      {
+        "original": "Ῥωμαίους (Rhōmaious)",
+        "transliteration": "Romans",
+        "strongs": "G4514=N-APM-LG",
+        "morphology": "Ῥωμαῖος=Roman",
+        "translation": "TR"
+      },
+      {
+        "original": "ἐγράφη (egraphē)",
+        "transliteration": "it was written",
+        "strongs": "G1125=V-2API-3S",
+        "morphology": "γράφω=to write",
+        "translation": "TR"
+      },
+      {
+        "original": "ἀπό (apo)",
+        "transliteration": "from",
+        "strongs": "G0575=PREP",
+        "morphology": "ἀπό=away from",
+        "translation": "TR"
+      },
+      {
+        "original": "Κορίνθου (Korinthou)",
+        "transliteration": "Corinth",
+        "strongs": "G2882=N-GSF-L",
+        "morphology": "Κόρινθος=Corinth",
+        "translation": "TR"
+      },
+      {
+        "original": "διὰ (dia)",
+        "transliteration": "through",
+        "strongs": "G1223=PREP",
+        "morphology": "διά=through/because of",
+        "translation": "TR"
+      },
+      {
+        "original": "φοίβης (phoibēs)",
+        "transliteration": "Phoebe",
+        "strongs": "G5402=N-GSF-P",
+        "morphology": "Φοίβη=Phoebe",
+        "translation": "TR"
+      },
+      {
+        "original": "τῆς (tēs)",
+        "transliteration": "the",
+        "strongs": "G3588=T-GSF",
+        "morphology": "ὁ=the/this/who",
+        "translation": "TR"
+      },
+      {
+        "original": "διακόνου (diakonou)",
+        "transliteration": "servant",
+        "strongs": "G1249=N-GSF",
+        "morphology": "διάκονος=servant",
+        "translation": "TR"
+      },
+      {
+        "original": "τῆς (tēs)",
+        "transliteration": "<the>",
+        "strongs": "G3588=T-GSF",
+        "morphology": "ὁ=the/this/who",
+        "translation": "TR"
+      },
+      {
+        "original": "ἕν (hen)",
+        "transliteration": "in",
+        "strongs": "G1722=PREP",
+        "morphology": "ἐν=in/on/among",
+        "translation": "TR"
+      },
+      {
+        "original": "Κεγχρεαῖς (Kegchreais)",
+        "transliteration": "Cenchrea",
+        "strongs": "G2747=N-DPF-L",
+        "morphology": "Κεγχρεαί=Cenchrea",
+        "translation": "TR"
+      },
+      {
+        "original": "ἐκκλησίας.¶ (ekklēsias)",
+        "transliteration": "church.",
+        "strongs": "G1577=N-GSF",
+        "morphology": "ἐκκλησία=assembly",
+        "translation": "TR"
+      }
+    ]
+  },
+  "2Co.1.7{1": {
+    "words": [
+      {
+        "original": "καὶ (kai)",
+        "transliteration": "And",
+        "strongs": "G2532=CONJ",
+        "morphology": "καί=and",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἡ (hē)",
+        "transliteration": "the",
+        "strongs": "G3588=T-NSF",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἐλπὶς (elpis)",
+        "transliteration": "hope",
+        "strongs": "G1680=N-NSF",
+        "morphology": "ἐλπίς=hope",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἡμῶν (hēmōn)",
+        "transliteration": "of us",
+        "strongs": "G3165=P-1GP",
+        "morphology": "ἐγώ=I/we",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "βεβαία (bebaia)",
+        "transliteration": "[is] steadfast",
+        "strongs": "G0949=A-NSF",
+        "morphology": "βέβαιος=firm",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ὑπὲρ (huper)",
+        "transliteration": "for",
+        "strongs": "G5228=PREP",
+        "morphology": "ὑπέρ=above/for",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ὑμῶν· (humōn)",
+        "transliteration": "of you;",
+        "strongs": "G4771=P-2GP",
+        "morphology": "σύ=you",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      }
+    ]
+  },
+  "2Co.8.13[8": {
+    "words": [
+      {
+        "original": "ἀλλ᾽ (all᾽)",
+        "transliteration": "[14] but",
+        "strongs": "G0235=CONJ",
+        "morphology": "ἀλλά=but",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἐξ (ex)",
+        "transliteration": "of",
+        "strongs": "G1537=PREP",
+        "morphology": "ἐκ=out from",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἰσότητος· (isotētos)",
+        "transliteration": "equality;",
+        "strongs": "G2471=N-GSF",
+        "morphology": "ἰσότης=equality",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      }
+    ]
+  },
+  "2Co.10.4[10": {
+    "words": [
+      {
+        "original": "λογισμοὺς (logismous)",
+        "transliteration": "[5] arguments",
+        "strongs": "G3053=N-APM",
+        "morphology": "λογισμός=thought",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "καθαιροῦντες (kathairountes)",
+        "transliteration": "overthrowing",
+        "strongs": "G2507=V-PAP-NPM",
+        "morphology": "καθαιρέω=to take down",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      }
+    ]
+  },
+  "2Co.13.12[13": {
+    "words": [
+      {
+        "original": "Ἀσπάζονται (Aspazontai)",
+        "transliteration": "[13] Greet",
+        "strongs": "G0782=V-PNI-3P",
+        "morphology": "ἀσπάζομαι=to pay respects to",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ὑμᾶς (humas)",
+        "transliteration": "you",
+        "strongs": "G4771=P-2AP",
+        "morphology": "σύ=you",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "οἱ (hoi)",
+        "transliteration": "the",
+        "strongs": "G3588=T-NPM",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἅγιοι (hagioi)",
+        "transliteration": "saints",
+        "strongs": "G0040H=A-NPM",
+        "morphology": "ἅγιος=holy",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "πάντες.¶ (pantes)",
+        "transliteration": "all.",
+        "strongs": "G3956=A-NPM",
+        "morphology": "πᾶς=all",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      }
+    ]
+  },
+  "2Co.13.13[13": {
+    "words": [
+      {
+        "original": "Ἡ (Hē)",
+        "transliteration": "[14] The",
+        "strongs": "G3588=T-NSF",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "χάρις (charis)",
+        "transliteration": "grace",
+        "strongs": "G5485=N-NSF",
+        "morphology": "χάρις=grace",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "τοῦ (tou)",
+        "transliteration": "of the",
+        "strongs": "G3588=T-GSM",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "κυρίου (kuriou)",
+        "transliteration": "Lord",
+        "strongs": "G2962G=N-GSM-T",
+        "morphology": "κύριος=lord",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "Ἰησοῦ (Iēsou)",
+        "transliteration": "Jesus",
+        "strongs": "G2424G=N-GSM-P",
+        "morphology": "Ἰησοῦς=Jesus/Joshua",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "Χριστοῦ (Christou)",
+        "transliteration": "Christ",
+        "strongs": "G5547=N-GSM-T",
+        "morphology": "Χριστός=Christ",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "καὶ (kai)",
+        "transliteration": "and",
+        "strongs": "G2532=CONJ",
+        "morphology": "καί=and",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἡ (hē)",
+        "transliteration": "the",
+        "strongs": "G3588=T-NSF",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἀγάπη (agapē)",
+        "transliteration": "love",
+        "strongs": "G0026=N-NSF",
+        "morphology": "ἀγάπη=love",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "τοῦ (tou)",
+        "transliteration": "<the>",
+        "strongs": "G3588=T-GSM",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "θεοῦ (theou)",
+        "transliteration": "of God",
+        "strongs": "G2316=N-GSM-T",
+        "morphology": "θεός=God",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "καὶ (kai)",
+        "transliteration": "and",
+        "strongs": "G2532=CONJ",
+        "morphology": "καί=and",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἡ (hē)",
+        "transliteration": "the",
+        "strongs": "G3588=T-NSF",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "κοινωνία (koinōnia)",
+        "transliteration": "fellowship",
+        "strongs": "G2842=N-NSF",
+        "morphology": "κοινωνία=participation",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "τοῦ (tou)",
+        "transliteration": "of the",
+        "strongs": "G3588=T-GSN",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἁγίου (hagiou)",
+        "transliteration": "Holy",
+        "strongs": "G0040G=A-GSN",
+        "morphology": "ἅγιος=holy",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "πνεύματος (pneumatos)",
+        "transliteration": "Spirit",
+        "strongs": "G4151G=N-GSN",
+        "morphology": "πνεῦμα=spirit/breath",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "μετὰ (meta)",
+        "transliteration": "[be] with",
+        "strongs": "G3326=PREP",
+        "morphology": "μετά=with/after",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "πάντων (pantōn)",
+        "transliteration": "all",
+        "strongs": "G3956=A-GPM",
+        "morphology": "πᾶς=all",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ὑμῶν (humōn)",
+        "transliteration": "of you",
+        "strongs": "G4771=P-2GP",
+        "morphology": "σύ=you",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἀμήν (amēn)",
+        "transliteration": "Amen",
+        "strongs": "G0281=INJ-HEB",
+        "morphology": "ἀμήν=amen",
+        "translation": "TR+Byz"
+      },
+      {
+        "original": "πρός (pros)",
+        "transliteration": "to",
+        "strongs": "G4314=PREP",
+        "morphology": "πρός=to/with",
+        "translation": "TR"
+      },
+      {
+        "original": "Κορινθίους (Korinthious)",
+        "transliteration": "Corinthians",
+        "strongs": "G2881=N-APM-LG",
+        "morphology": "Κορίνθιος=Corinthian",
+        "translation": "TR"
+      },
+      {
+        "original": "δευτέρᾳ (deutera)",
+        "transliteration": "second",
+        "strongs": "G1208=A-NSF",
+        "morphology": "δεύτερος=secondly",
+        "translation": "TR"
+      },
+      {
+        "original": "ἐγράφη (egraphē)",
+        "transliteration": "it was written",
+        "strongs": "G1125=V-2API-3S",
+        "morphology": "γράφω=to write",
+        "translation": "TR"
+      },
+      {
+        "original": "ἀπό (apo)",
+        "transliteration": "from",
+        "strongs": "G0575=PREP",
+        "morphology": "ἀπό=away from",
+        "translation": "TR"
+      },
+      {
+        "original": "Φιλίππων (Philippōn)",
+        "transliteration": "Philippi",
+        "strongs": "G5375=N-GSM-L",
+        "morphology": "Φίλιπποι=Philippi",
+        "translation": "TR"
+      },
+      {
+        "original": "τῆς (tēs)",
+        "transliteration": "<the>",
+        "strongs": "G3588=T-GSF",
+        "morphology": "ὁ=the/this/who",
+        "translation": "TR"
+      },
+      {
+        "original": "Μακεδονίας (Makedonias)",
+        "transliteration": "of Macedonia",
+        "strongs": "G3109=N-GSF-L",
+        "morphology": "Μακεδονία=Macedonia",
+        "translation": "TR"
+      },
+      {
+        "original": "διά (dia)",
+        "transliteration": "through",
+        "strongs": "G1223=PREP",
+        "morphology": "διά=through/because of",
+        "translation": "TR"
+      },
+      {
+        "original": "Τίτου (Titou)",
+        "transliteration": "of Titus",
+        "strongs": "G5103=N-GSM-P",
+        "morphology": "Τίτος=Titus",
+        "translation": "TR"
+      },
+      {
+        "original": "καί (kai)",
+        "transliteration": "and",
+        "strongs": "G2532=CONJ",
+        "morphology": "καί=and",
+        "translation": "TR"
+      },
+      {
+        "original": "Λουκᾶ.¶ (Louka)",
+        "transliteration": "Luke.",
+        "strongs": "G3065=N-GSM-P",
+        "morphology": "Λουκᾶς=Luke",
+        "translation": "TR"
+      }
+    ]
+  },
+  "Gal.2.19[2": {
+    "words": [
+      {
+        "original": "Χριστῷ (Christō)",
+        "transliteration": "[20] to Christ",
+        "strongs": "G5547=N-DSM-T",
+        "morphology": "Χριστός=Christ",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "συνεσταύρωμαι· (sunestaurōmai)",
+        "transliteration": "I have been crucified with;",
+        "strongs": "G4957=V-RPI-1S",
+        "morphology": "συσταυρόομαι=to crucify with",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      }
+    ]
+  },
+  "Eph.1.10{1": {
+    "words": [
+      {
+        "original": "ἐν (en)",
+        "transliteration": "{11} in",
+        "strongs": "G1722=PREP",
+        "morphology": "ἐν=in/on/among",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "αὐτῷ, (autō)",
+        "transliteration": "Him,",
+        "strongs": "G0846=P-DSM",
+        "morphology": "αὐτός=he/she/it/self",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      }
+    ]
+  },
+  "Eph.2.14[2": {
+    "words": [
+      {
+        "original": "τὴν (tēn)",
+        "transliteration": "[15] the",
+        "strongs": "G3588=T-ASF",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἔχθραν (echthran)",
+        "transliteration": "hostility",
+        "strongs": "G2189=N-ASF",
+        "morphology": "ἔχθρα=hostility",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἐν (en)",
+        "transliteration": "in",
+        "strongs": "G1722=PREP",
+        "morphology": "ἐν=in/on/among",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "τῇ (tēa)",
+        "transliteration": "the",
+        "strongs": "G3588=T-DSF",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "σαρκὶ (sarki)",
+        "transliteration": "flesh",
+        "strongs": "G4561=N-DSF",
+        "morphology": "σάρξ=flesh",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "αὐτοῦ, (autou)",
+        "transliteration": "of Him,",
+        "strongs": "G0846=P-GSM",
+        "morphology": "αὐτός=he/she/it/self",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      }
+    ]
+  },
+  "Eph.5.14[5": {
+    "words": [
+      {
+        "original": "πᾶν (pan)",
+        "transliteration": "everything",
+        "strongs": "G3956=A-NSN",
+        "morphology": "πᾶς=all",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "γὰρ (gar)",
+        "transliteration": "for",
+        "strongs": "G1063=CONJ",
+        "morphology": "γάρ=for",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "τὸ (to)",
+        "transliteration": "which",
+        "strongs": "G3588=T-NSN",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "φανερούμενον (phaneroumenon)",
+        "transliteration": "is becoming visible",
+        "strongs": "G5319=V-PPP-NSN",
+        "morphology": "φανερόω=to manifest",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "φῶς (phōs)",
+        "transliteration": "light",
+        "strongs": "G5457=N-NSN",
+        "morphology": "φῶς=light",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἐστιν· (estin)",
+        "transliteration": "is;",
+        "strongs": "G1510=V-PAI-3S",
+        "morphology": "εἰμί=to be",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      }
+    ]
+  },
+  "Php.1.16[1": {
+    "words": [
+      {
+        "original": "οἱ (hoi)",
+        "transliteration": "[17] the [ones]",
+        "strongs": "G3588=T-NPM",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "μὲν (men)",
+        "transliteration": "indeed",
+        "strongs": "G3303=PRT",
+        "morphology": "μέν=on one hand",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἐξ (ex)",
+        "transliteration": "out of",
+        "strongs": "G1537=PREP",
+        "morphology": "ἐκ=out from",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἀγάπης (agapēs)",
+        "transliteration": "love",
+        "strongs": "G0026=N-GSF",
+        "morphology": "ἀγάπη=love",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "εἰδότες (eidotes)",
+        "transliteration": "knowing",
+        "strongs": "G6063=V-RAP-NPM",
+        "morphology": "εἴδω=to perceive",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ὅτι (hoti)",
+        "transliteration": "that",
+        "strongs": "G3754G=CONJ",
+        "morphology": "ὅτι=that/since",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "εἰς (eis)",
+        "transliteration": "for",
+        "strongs": "G1519=PREP",
+        "morphology": "εἰς=toward",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἀπολογίαν (apologian)",
+        "transliteration": "defense",
+        "strongs": "G0627=N-ASF",
+        "morphology": "ἀπολογία=defence",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "τοῦ (tou)",
+        "transliteration": "of the",
+        "strongs": "G3588=T-GSN",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "εὐαγγελίου (euangeliou)",
+        "transliteration": "gospel",
+        "strongs": "G2098=N-GSN",
+        "morphology": "εὐαγγέλιον=gospel",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "κεῖμαι· (keimai)",
+        "transliteration": "I am appointed;",
+        "strongs": "G2749=V-PNI-1S",
+        "morphology": "κεῖμαι=to lay/be appointed",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      }
+    ]
+  },
+  "Php.1.17[1": {
+    "words": [
+      {
+        "original": "οἱ (hoi)",
+        "transliteration": "[16] the [ones]",
+        "strongs": "G3588=T-NPM",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "δὲ (de)",
+        "transliteration": "however",
+        "strongs": "G1161=CONJ",
+        "morphology": "δέ=but/and",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἐξ (ex)",
+        "transliteration": "out of",
+        "strongs": "G1537=PREP",
+        "morphology": "ἐκ=out from",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἐριθείας (eritheias)",
+        "transliteration": "selfish ambition",
+        "strongs": "G2052=N-GSF",
+        "morphology": "ἐριθεία=rivalry",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "τὸν (ton)",
+        "transliteration": "<the>",
+        "strongs": "G3588=T-ASM",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "Χριστὸν (Christon)",
+        "transliteration": "Christ",
+        "strongs": "G5547=N-ASM-T",
+        "morphology": "Χριστός=Christ",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "καταγγέλλουσιν (katangellousin)",
+        "transliteration": "are proclaiming",
+        "strongs": "G2605=V-PAI-3P",
+        "morphology": "καταγγέλλω=to proclaim",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "οὐχ (ouch)",
+        "transliteration": "not",
+        "strongs": "G3756=PRT-N",
+        "morphology": "οὐ=no",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἁγνῶς (hagnōs)",
+        "transliteration": "purely",
+        "strongs": "G0055=ADV",
+        "morphology": "ἁγνῶς=purely",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "οἰόμενοι (oiomenoi)",
+        "transliteration": "supposing",
+        "strongs": "G3633=V-PNP-NPM",
+        "morphology": "οἴομαι=to suppose",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "θλῖψιν (thlipsin)",
+        "transliteration": "tribulation",
+        "strongs": "G2347=N-ASF",
+        "morphology": "θλῖψις=pressure",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἐγείρειν (egeirein)",
+        "transliteration": "to add",
+        "strongs": "G1453=V-PAN",
+        "morphology": "ἐγείρω=to arise",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+Byz"
+      },
+      {
+        "original": "τοῖς (tois)",
+        "transliteration": "to the",
+        "strongs": "G3588=T-DPM",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "δεσμοῖς (desmois)",
+        "transliteration": "chains",
+        "strongs": "G1199=N-DPM",
+        "morphology": "δεσμός=chain",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "μου. (mou)",
+        "transliteration": "of mine.",
+        "strongs": "G3165=P-1GS",
+        "morphology": "ἐγώ=I/we",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      }
+    ]
+  },
+  "Php.2.7[2": {
+    "words": [
+      {
+        "original": "καὶ (kai)",
+        "transliteration": "[8] And",
+        "strongs": "G2532=CONJ",
+        "morphology": "καί=and",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "σχήματι (schēmati)",
+        "transliteration": "in appearance",
+        "strongs": "G4976=N-DSN",
+        "morphology": "σχῆμα=form",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "εὑρεθεὶς (heuretheis)",
+        "transliteration": "having been found",
+        "strongs": "G2147=V-2APP-NSM",
+        "morphology": "εὑρίσκω=to find/meet",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ὡς (hōs)",
+        "transliteration": "as",
+        "strongs": "G5613=PRT",
+        "morphology": "ὡς=which/how",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἄνθρωπος (anthrōpos)",
+        "transliteration": "a man",
+        "strongs": "G0444=N-NSM",
+        "morphology": "ἄνθρωπος=a human",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      }
+    ]
+  },
+  "Col.1.11{1": {
+    "words": [
+      {
+        "original": "μετὰ (meta)",
+        "transliteration": "{12} with",
+        "strongs": "G3326=PREP",
+        "morphology": "μετά=with/after",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "χαρᾶς. (charas)",
+        "transliteration": "joy.",
+        "strongs": "G5479=N-GSF",
+        "morphology": "χαρά=joy",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      }
+    ]
+  },
+  "Col.1.22[1": {
+    "words": [
+      {
+        "original": "νυνὶ (nuni)",
+        "transliteration": "now",
+        "strongs": "G3570=ADV",
+        "morphology": "νυνί=now",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "δὲ (de)",
+        "transliteration": "however",
+        "strongs": "G1161=CONJ",
+        "morphology": "δέ=but/and",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἀποκατήλλαξεν (apokatēllaxen)",
+        "transliteration": "He has reconciled [You]",
+        "strongs": "G0604=V-AAI-3S",
+        "morphology": "ἀποκαταλλάσσω=to reconcile",
+        "translation": "NA28+NA27+Tyn+WH+Treg+TR+Byz"
+      }
+    ]
+  },
+  "1Th.1.2[1": {
+    "words": [
+      {
+        "original": "ἀδιαλείπτως (adialeiptōs)",
+        "transliteration": "[3] unceasingly",
+        "strongs": "G0089=ADV",
+        "morphology": "ἀδιαλείπτως=unceasingly",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      }
+    ]
+  },
+  "1Th.2.7[2": {
+    "words": [
+      {
+        "original": "δυνάμενοι (dunamenoi)",
+        "transliteration": "[though] having authority",
+        "strongs": "G1410=V-PNP-NPM",
+        "morphology": "δύναμαι=be able",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἐν (en)",
+        "transliteration": "with",
+        "strongs": "G1722=PREP",
+        "morphology": "ἐν=in/on/among",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "βάρει (barei)",
+        "transliteration": "weight",
+        "strongs": "G0922=N-DSN",
+        "morphology": "βάρος=burden",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "εἶναι (einai)",
+        "transliteration": "to be",
+        "strongs": "G1511=V-PAN",
+        "morphology": "εἰμί=to be",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ὡς (hōs)",
+        "transliteration": "as",
+        "strongs": "G5613=PRT",
+        "morphology": "ὡς=which/how",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "Χριστοῦ (Christou)",
+        "transliteration": "Christ’s",
+        "strongs": "G5547=N-GSM-T",
+        "morphology": "Χριστός=Christ",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἀπόστολοι· (apostoloi)",
+        "transliteration": "apostles;",
+        "strongs": "G0652=N-NPM",
+        "morphology": "ἀπόστολος=apostle",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      }
+    ]
+  },
+  "1Th.2.12[2": {
+    "words": [
+      {
+        "original": "παρακαλοῦντες (parakalountes)",
+        "transliteration": "exhorting",
+        "strongs": "G3870=V-PAP-NPM",
+        "morphology": "παρακαλέω=to plead/comfort",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ὑμᾶς (humas)",
+        "transliteration": "you",
+        "strongs": "G4771=P-2AP",
+        "morphology": "σύ=you",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "καὶ (kai)",
+        "transliteration": "and",
+        "strongs": "G2532=CONJ",
+        "morphology": "καί=and",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "παραμυθούμενοι (paramuthoumenoi)",
+        "transliteration": "comforting",
+        "strongs": "G3888=V-PNP-NPM",
+        "morphology": "παραμυθέομαι=to encourage",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "καὶ (kai)",
+        "transliteration": "and",
+        "strongs": "G2532=CONJ",
+        "morphology": "καί=and",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "μαρτυρόμενοι (marturomenoi)",
+        "transliteration": "charging",
+        "strongs": "G3143=V-PNP-NPM",
+        "morphology": "μαρτύρομαι=to testify",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+Byz"
+      }
+    ]
+  },
+  "2Th.1.8{1": {
+    "words": [
+      {
+        "original": "ἐν (en)",
+        "transliteration": "in",
+        "strongs": "G1722=PREP",
+        "morphology": "ἐν=in/on/among",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "πυρὶ (puri)",
+        "transliteration": "a fire",
+        "strongs": "G4442=N-DSN",
+        "morphology": "πῦρ=fire",
+        "translation": "NA28+NA27+Tyn+WH+TR+Byz"
+      },
+      {
+        "original": "φλογός, (phlogos)",
+        "transliteration": "of flame,",
+        "strongs": "G5395=N-GSF",
+        "morphology": "φλόξ=flame",
+        "translation": "NA28+NA27+Tyn+WH+TR+Byz"
+      }
+    ]
+  },
+  "1Ti.6.21{6": {
+    "words": [
+      {
+        "original": "Ἡ (Hē)",
+        "transliteration": "{22} <the>",
+        "strongs": "G3588=T-NSF",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "χάρις (charis)",
+        "transliteration": "Grace [be]",
+        "strongs": "G5485=N-NSF",
+        "morphology": "χάρις=grace",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "μεθ᾽ (meth᾽)",
+        "transliteration": "with",
+        "strongs": "G3326=PREP",
+        "morphology": "μετά=with/after",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ὑμῶν (humōn)",
+        "transliteration": "you [all]",
+        "strongs": "G4771=P-2GP",
+        "morphology": "σύ=you",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg"
+      },
+      {
+        "original": "ἀμήν. (amēn)",
+        "transliteration": "Amen.",
+        "strongs": "G0281=INJ-HEB",
+        "morphology": "ἀμήν=amen",
+        "translation": "TR+Byz"
+      },
+      {
+        "original": "πρός (pros)",
+        "transliteration": "to",
+        "strongs": "G4314=PREP",
+        "morphology": "πρός=to/with",
+        "translation": "TR"
+      },
+      {
+        "original": "Τιμόθεον (Timotheon)",
+        "transliteration": "Timothy",
+        "strongs": "G5095=N-ASM-P",
+        "morphology": "Τιμόθεος=Timothy",
+        "translation": "TR"
+      },
+      {
+        "original": "πρώτη (prōtē)",
+        "transliteration": "first",
+        "strongs": "G4413G=A-NSF-S",
+        "morphology": "πρῶτος=first",
+        "translation": "TR"
+      },
+      {
+        "original": "ἐγράφη (egraphē)",
+        "transliteration": "it was written",
+        "strongs": "G1125=V-2API-3S",
+        "morphology": "γράφω=to write",
+        "translation": "TR"
+      },
+      {
+        "original": "ἀπό (apo)",
+        "transliteration": "from",
+        "strongs": "G0575=PREP",
+        "morphology": "ἀπό=away from",
+        "translation": "TR"
+      },
+      {
+        "original": "Λαοδικείας (Laodikeias)",
+        "transliteration": "Laodicea",
+        "strongs": "G2993=N-GSF-L",
+        "morphology": "Λαοδίκεια=Laodicea",
+        "translation": "TR"
+      },
+      {
+        "original": "ἥτις (hētis)",
+        "transliteration": "which",
+        "strongs": "G3748=R-NSF",
+        "morphology": "ὅστις=who/which",
+        "translation": "TR"
+      },
+      {
+        "original": "ἐστίν (estin)",
+        "transliteration": "is",
+        "strongs": "G1510=V-PAI-3S",
+        "morphology": "εἰμί=to be",
+        "translation": "TR"
+      },
+      {
+        "original": "μητρόπολις (mētropolis)",
+        "transliteration": "capital",
+        "strongs": "G3390=N-NSF",
+        "morphology": "μητρόπολις=capital",
+        "translation": "TR"
+      },
+      {
+        "original": "φρυγίας (phrugias)",
+        "transliteration": "of Phrygia",
+        "strongs": "G5435=N-GSF-L",
+        "morphology": "Φρυγία=Phrygia",
+        "translation": "TR"
+      },
+      {
+        "original": "τῆς (tēs)",
+        "transliteration": "<the>",
+        "strongs": "G3588=T-GSF",
+        "morphology": "ὁ=the/this/who",
+        "translation": "TR"
+      },
+      {
+        "original": "Πακατιανῆς.¶ (Pakatianēs)",
+        "transliteration": "of Pacatiana.",
+        "strongs": "G3818=N-GSF-LG",
+        "morphology": "Πακατιανή=Pacatian",
+        "translation": "TR"
+      }
+    ]
+  },
+  "Heb.3.10[3": {
+    "words": [
+      {
+        "original": "τεσσεράκοντα (tesserakonta)",
+        "transliteration": "forty",
+        "strongs": "G5062=A-NUI",
+        "morphology": "τεσσαράκοντα=forty",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἔτη· (etē)",
+        "transliteration": "years;",
+        "strongs": "G2094=N-APN",
+        "morphology": "ἔτος=year",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      }
+    ]
+  },
+  "Heb.7.20[7": {
+    "words": [
+      {
+        "original": "οἱ (hoi)",
+        "transliteration": "[21] those ones",
+        "strongs": "G3588=T-NPM",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "μὲν (men)",
+        "transliteration": "truly",
+        "strongs": "G3303=PRT",
+        "morphology": "μέν=on one hand",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "γὰρ (gar)",
+        "transliteration": "for",
+        "strongs": "G1063=CONJ",
+        "morphology": "γάρ=for",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "χωρὶς (chōris)",
+        "transliteration": "without",
+        "strongs": "G5565=PREP",
+        "morphology": "χωρίς=without",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ὁρκωμοσίας (horkōmosias)",
+        "transliteration": "an oath",
+        "strongs": "G3728=N-GSF",
+        "morphology": "ὁρκωμοσία=oath",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "εἰσὶν (eisin)",
+        "transliteration": "are",
+        "strongs": "G1510=V-PAI-3P",
+        "morphology": "εἰμί=to be",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἱερεῖς (hi'ereis)",
+        "transliteration": "priests",
+        "strongs": "G2409=N-NPM",
+        "morphology": "ἱερεύς=priest",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "γεγονότες, (gegonotes)",
+        "transliteration": "having become,",
+        "strongs": "G1096=V-2RAP-NPM",
+        "morphology": "γίνομαι=to be",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      }
+    ]
+  },
+  "Heb.12.22[12": {
+    "words": [
+      {
+        "original": "πανηγύρει (panēgurei)",
+        "transliteration": "[23] to [the] assembly",
+        "strongs": "G3831=N-DSF",
+        "morphology": "πανήγυρις=assembly",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      }
+    ]
+  },
+  "1Pe.3.16[3": {
+    "words": [
+      {
+        "original": "ἀλλὰ (alla)",
+        "transliteration": "yet",
+        "strongs": "G0235=CONJ",
+        "morphology": "ἀλλά=but",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg"
+      },
+      {
+        "original": "μετὰ (meta)",
+        "transliteration": "with",
+        "strongs": "G3326=PREP",
+        "morphology": "μετά=with/after",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "πραΰτητος (prautētos)",
+        "transliteration": "gentleness",
+        "strongs": "G4236=N-GSF",
+        "morphology": "πραΰτης=gentleness",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "καὶ (kai)",
+        "transliteration": "and",
+        "strongs": "G2532=CONJ",
+        "morphology": "καί=and",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "φόβου, (phobou)",
+        "transliteration": "fear,",
+        "strongs": "G5401=N-GSM",
+        "morphology": "φόβος=fear",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      }
+    ]
+  },
+  "1Jn.2.14[2": {
+    "words": [
+      {
+        "original": "Ἔγραψα (Egrapsa)",
+        "transliteration": "I have written",
+        "strongs": "G1125=V-2AAI-1S",
+        "morphology": "γράφω=to write",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg"
+      },
+      {
+        "original": "ὑμῖν, (humin)",
+        "transliteration": "to you,",
+        "strongs": "G4771=P-2DP",
+        "morphology": "σύ=you",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "παιδία, (paidia)",
+        "transliteration": "little children,",
+        "strongs": "G3813=N-VPN",
+        "morphology": "παιδίον=child",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ὅτι (hoti)",
+        "transliteration": "because",
+        "strongs": "G3754H=CONJ",
+        "morphology": "ὅτι=that/since",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἐγνώκατε (egnōkate)",
+        "transliteration": "you have known",
+        "strongs": "G1097=V-RAI-2P",
+        "morphology": "γινώσκω=to know",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "τὸν (ton)",
+        "transliteration": "the",
+        "strongs": "G3588=T-ASM",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "πατέρα. (patera)",
+        "transliteration": "Father.",
+        "strongs": "G3962=N-ASM-T",
+        "morphology": "πατήρ=father",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      }
+    ]
+  },
+  "3Jn.1.15[1": {
+    "words": [
+      {
+        "original": "εἰρήνη (eirēnē)",
+        "transliteration": "Peace",
+        "strongs": "G1515=N-NSF",
+        "morphology": "εἰρήνη=peace",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "σοι. (soi)",
+        "transliteration": "to you.",
+        "strongs": "G4771=P-2DS",
+        "morphology": "σύ=you",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἀσπάζονταί (aspazontai)",
+        "transliteration": "Greet",
+        "strongs": "G0782=V-PNI-3P",
+        "morphology": "ἀσπάζομαι=to pay respects to",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "σε (se)",
+        "transliteration": "you",
+        "strongs": "G4771=P-2AS",
+        "morphology": "σύ=you",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "οἱ (hoi)",
+        "transliteration": "the",
+        "strongs": "G3588=T-NPM",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "φίλοι. (philoi)",
+        "transliteration": "friends.",
+        "strongs": "G5384=A-NPM",
+        "morphology": "φίλος=friendly/friend",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἀσπάζου (aspazou)",
+        "transliteration": "do greet",
+        "strongs": "G0782=V-PNM-2S",
+        "morphology": "ἀσπάζομαι=to pay respects to",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "τοὺς (tous)",
+        "transliteration": "the",
+        "strongs": "G3588=T-APM",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "φίλους (philous)",
+        "transliteration": "friends",
+        "strongs": "G5384=A-APM",
+        "morphology": "φίλος=friendly/friend",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "κατ᾽ (kat᾽)",
+        "transliteration": "by",
+        "strongs": "G2596=PREP",
+        "morphology": "κατά=according to",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ὄνομα.¶ (onoma)",
+        "transliteration": "name.",
+        "strongs": "G3686=N-ASN",
+        "morphology": "ὄνομα=name",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      }
+    ]
+  },
+  "Rev.2.28[2": {
+    "words": [
+      {
+        "original": "ὡς (hōs)",
+        "transliteration": "just as",
+        "strongs": "G5613=PRT",
+        "morphology": "ὡς=which/how",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "κἀγὼ (kagō)",
+        "transliteration": "I myself also",
+        "strongs": "G1473=P-1NS + G2532=CONJ",
+        "morphology": "κἀγώ=and I",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "εἴληφα (eilēpha)",
+        "transliteration": "have received",
+        "strongs": "G2983=V-2RAI-1S",
+        "morphology": "λαμβάνω=to take",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "παρὰ (para)",
+        "transliteration": "from",
+        "strongs": "G3844=PREP",
+        "morphology": "παρά=from with",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "τοῦ (tou)",
+        "transliteration": "the",
+        "strongs": "G3588=T-GSM",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "πατρός (patros)",
+        "transliteration": "Father",
+        "strongs": "G3962=N-GSM-T",
+        "morphology": "πατήρ=father",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "μου. (mou)",
+        "transliteration": "of Mine.",
+        "strongs": "G3165=P-1GS",
+        "morphology": "ἐγώ=I/we",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      }
+    ]
+  },
+  "Rev.12.18[13": {
+    "words": [
+      {
+        "original": "καὶ (kai)",
+        "transliteration": "[13.1] And",
+        "strongs": "G2532=CONJ",
+        "morphology": "καί=and",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἐστάθη (estathē)",
+        "transliteration": "he stood",
+        "strongs": "G2476=V-API-3S",
+        "morphology": "ἵστημι=to stand",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg"
+      },
+      {
+        "original": "ἐπὶ (epi)",
+        "transliteration": "upon",
+        "strongs": "G1909=PREP",
+        "morphology": "ἐπί=upon/to/against",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "τὴν (tēn)",
+        "transliteration": "the",
+        "strongs": "G3588=T-ASF",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἄμμον (ammon)",
+        "transliteration": "sand",
+        "strongs": "G0285=N-ASF",
+        "morphology": "ἄμμος=sand",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "τῆς (tēs)",
+        "transliteration": "of the",
+        "strongs": "G3588=T-GSF",
+        "morphology": "ὁ=the/this/who",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "θαλάσσης.¶ (thalassēs)",
+        "transliteration": "sea.",
+        "strongs": "G2281=N-GSF",
+        "morphology": "θάλασσα=sea",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      }
+    ]
+  },
+  "Rev.17.9[17": {
+    "words": [
+      {
+        "original": "καὶ (kai)",
+        "transliteration": "[10] And",
+        "strongs": "G2532=CONJ",
+        "morphology": "καί=and",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "βασιλεῖς (basileis)",
+        "transliteration": "kings",
+        "strongs": "G0935=N-NPM",
+        "morphology": "βασιλεύς=king",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      },
+      {
+        "original": "ἑπτά (hepta)",
+        "transliteration": "seven",
+        "strongs": "G2033=A-NUI",
+        "morphology": "ἑπτά=seven",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz»1"
+      },
+      {
+        "original": "εἰσιν· (eisin)",
+        "transliteration": "there are:",
+        "strongs": "G1510=V-PAI-3P",
+        "morphology": "εἰμί=to be",
+        "translation": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz"
+      }
+    ]
+  }
+}
