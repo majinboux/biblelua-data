@@ -4567,6 +4567,10 @@
     {
       "source": "source_567",
       "file": "dictionaries/source_567.json"
+    },
+    {
+      "source": "BDB",
+      "file": "dictionaries/BDB.json"
     }
   ],
   "cross_references": [
@@ -4835,5 +4839,41 @@
       "file": "cross_references/Zephaniah_xrefs.json"
     }
   ],
-  "last_updated": "2025-01-12"
+  "apparatus": [
+    {
+      "name": "ETCBC Dead Sea Scrolls (Text-Fabric) v2.0.1",
+      "file": "apparatus/dss/",
+      "license": "CC BY-NC 4.0",
+      "source": "ETCBC/dss, based on Martin Abegg's morphological data"
+    },
+    {
+      "name": "ETCBC BHSA \u2014 Biblia Hebraica Stuttgartensia Amstelodamensis (Text-Fabric, version 2021)",
+      "file": "apparatus/bhsa/",
+      "license": "CC BY-NC 4.0",
+      "citation_doi": "10.17026/dans-z6y-skyh"
+    },
+    {
+      "name": "Sources register \u2014 print editions & library-only references",
+      "file": "apparatus/SOURCES.md"
+    }
+  ],
+  "editions": [
+    {
+      "name": "August F. von Gall (ed.), Der hebr\u00e4ische Pentateuch der Samaritaner (1914\u20131918) \u2014 Vol. 1: Prolegomena und Genesis, DjVu text",
+      "file": "editions/vonGall-SamaritanPentateuch-1914-1918.txt",
+      "license": "Public domain"
+    },
+    {
+      "name": "Moshe Florentin & Abraham Tal, The Samaritan Pentateuch: An English Translation with a Parallel Annotated Hebrew Text (Open Book Publishers, 2025)",
+      "file": "editions/Florentin-Tal-SamaritanPentateuch-English-2025.pdf",
+      "license": "CC BY-NC 4.0",
+      "doi": "10.11647/OBP.0415"
+    },
+    {
+      "name": "John Skinner, A Critical and Exegetical Commentary on Genesis (ICC, 1910) \u2014 Project Gutenberg eBook 77363 plain text",
+      "file": "editions/Skinner-Genesis-ICC-1910.txt",
+      "license": "Public domain in the USA"
+    }
+  ],
+  "last_updated": "2026-10-12"
 }
