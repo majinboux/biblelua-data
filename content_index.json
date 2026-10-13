@@ -4873,7 +4873,27 @@
       "name": "John Skinner, A Critical and Exegetical Commentary on Genesis (ICC, 1910) \u2014 Project Gutenberg eBook 77363 plain text",
       "file": "editions/Skinner-Genesis-ICC-1910.txt",
       "license": "Public domain in the USA"
+    },
+    {
+      "name": "August F. von Gall (ed.), Der hebr\\u00e4ische Pentateuch der Samaritaner (1914\\u20131918) \\u2014 Vol. 2: Exodus, DjVu text",
+      "file": "editions/vonGall-SamaritanPentateuch-Vol2-Exodus.txt",
+      "license": "Public domain"
+    },
+    {
+      "name": "August F. von Gall (ed.), Der hebr\\u00e4ische Pentateuch der Samaritaner (1914\\u20131918) \\u2014 Vol. 3: Leviticus, DjVu text",
+      "file": "editions/vonGall-SamaritanPentateuch-Vol3-Leviticus.txt",
+      "license": "Public domain"
+    },
+    {
+      "name": "August F. von Gall (ed.), Der hebr\\u00e4ische Pentateuch der Samaritaner (1914\\u20131918) \\u2014 Vol. 4: Numbers, DjVu text",
+      "file": "editions/vonGall-SamaritanPentateuch-Vol4-Numbers.txt",
+      "license": "Public domain"
+    },
+    {
+      "name": "August F. von Gall (ed.), Der hebr\\u00e4ische Pentateuch der Samaritaner (1914\\u20131918) \\u2014 Vol. 5: Deuteronomy, incl. addenda and corrections to Vols. 1\\u20134, DjVu text",
+      "file": "editions/vonGall-SamaritanPentateuch-Vol5-Deuteronomy.txt",
+      "license": "Public domain"
     }
   ],
-  "last_updated": "2026-10-12"
+  "last_updated": "2026-10-13"
 }
